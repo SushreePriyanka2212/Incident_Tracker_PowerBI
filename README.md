@@ -3,7 +3,7 @@
 
 This project showcases Power BI dashboard developed to monitor and analyze the performance of an application support team and track incident management trends. The dashboards provide insights into team efficiency, SLA compliance, incident severity, and defect patterns. Designed for managerial insights, these dashboards enable data-driven decision-making and performance optimization.
 
-Objective
+**Objective**
 
 The primary objective of this project is to provide a comprehensive view of the support team's performance and application defect trends.
 By tracking key metrics such as average turnaround time (TAT), incident count, and SLA compliance, the dashboards aim to:
@@ -12,7 +12,8 @@ By tracking key metrics such as average turnaround time (TAT), incident count, a
 •	Improve support response times and resource allocation
 •	Monitor and address recurring defects in applications
 
-Dashboard Features
+**Dashboard Features**
+
 1. Support Performance Tracker
 
 •	Daywise performance: Visualizes the day-by-day performance of application team members, comparing their work against average turnaround time (TAT) and incident count.
@@ -27,7 +28,7 @@ Dashboard Features
 •	Per day average incident count (Card): Displays the average number of incidents per day.
 •	%SLA compliance (Card with conditional formatting): Highlights the percentage of incidents resolved within SLA, with color-coded indicators for quick assessment.
 
-Tools and Technology Used
+**Tools and Technology Used**
 
 •	Power BI: Primary tool for data visualization and dashboard creation.
 •	Excel: Source of raw data imported into Power BI for analysis.
@@ -35,6 +36,6 @@ Tools and Technology Used
 •	Power Query: Employed for data transformation and cleaning.
 •	Conditional Formatting: Applied in cards to visually emphasize SLA compliance.
 
-Project Files
+**Project Files**
 •	Incident_Tracker.pbix: Power BI file containing the full analysis and interactive dashboard.
 
