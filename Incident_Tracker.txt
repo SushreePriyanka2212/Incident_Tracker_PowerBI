@@ -1,0 +1,14 @@
+ASSUMPTION:
+
+1.Sample data may be extended for Fact without adding the complexity
+2.Models can be made in either snowflakes or star.
+3.Use of RLS is optional but recommended.
+4.Datasources may vary but at least csv will suffice.
+
+
+SERVICE DELIVERY MANAGEMENT
+
+1.1 Support Performance Tracker-Daywise performance of application team members against avg TAT and incident count,to be viewed from manager hierarchy
+1.2 Support Performance Tracker-Slicers to include SLA,Creation Dates,Application Names
+2.1 Incident Management Dashboard- Applicationwise Defect Trends(Trend line),Application SLA distrubution (Bar)
+2.2 Incident Management Dashboard- Overall Severity Distribution(Pie);Per day Avg Incident Count(card); %SLA Compliance(card with conditional colour)
